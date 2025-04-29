@@ -2,7 +2,7 @@ function num(valor) {
     document.getElementById("Tela").innerHTML += valor;
 }
 
-function LimparTela13() {
+function LimparTela() {
     document.getElementById("Tela").innerHTML = "";
 }
 
